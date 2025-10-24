@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int main() {
     // Déclaration et affectation des variables
@@ -45,3 +46,4 @@ int main() {
 
     return 0;
 }
+
